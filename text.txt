@@ -1,5 +1,5 @@
 LERNING GIT!!!hello world this change belongs to feature
 this change belongs to main
-=======
+
 this is change to feature 
 
